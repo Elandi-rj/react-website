@@ -1,0 +1,49 @@
+.Globe {
+    pointer-events: none;
+  }
+  
+  @media (prefers-reduced-motion: no-preference) {
+    .Globe {
+      animation: App-logo-spin infinite 50s linear;
+      position: fixed;
+      right: -250px;
+      height: 90vmin;
+      bottom: -150px;
+    }
+  }
+  .header-text p, .header-button{
+    margin-top: 20vh;
+    margin-bottom: 20vh;
+    font-size: x-large;
+  }
+  .home-header {
+    background-color: #1A2C40;
+    display: flex;
+    flex-direction: column;
+    padding-left: 10%;
+    color: white;
+    height: 100vh;
+  }
+  .header-text{
+    align-items: center;
+    left: 20px;
+  }
+  .header-button{
+    background-color: Transparent;
+    background-repeat:no-repeat;
+    border: none;
+    cursor:pointer;
+    overflow: hidden;
+    outline:none;
+    color: white;
+  }
+  
+  @keyframes App-logo-spin {
+    from {
+      transform: rotate(0deg);
+    }
+    to {
+      transform: rotate(360deg);
+    }
+  }
+  

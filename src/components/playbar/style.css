@@ -8,7 +8,7 @@
     flex-direction: column;
     align-items: center;
 }
-button{
+.bar-button{
     background-color: Transparent;
     background-repeat:no-repeat;
     border: none;

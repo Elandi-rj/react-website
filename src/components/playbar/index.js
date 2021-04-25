@@ -4,7 +4,7 @@ import './style.css';
 function Playbar() {
     return (
         <div className="bar-container">
-            <button>▶</button>
+            <button className="bar-button">▶</button>
         </div>
     )
 }
