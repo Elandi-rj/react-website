@@ -1,0 +1,9 @@
+.bottom-nav{
+    background: rgb(0,0,0);
+    background: linear-gradient(0deg, rgba(0,0,0,1) 0%, rgba(0,0,0,0.9640231092436975) 50%, rgba(0,0,0,0.6671043417366946) 75%, rgba(0,0,0,0) 100%);
+    color: white;
+    padding-top: 150px;
+    position: fixed;
+    width: 100%;
+    bottom: 0px;
+}
