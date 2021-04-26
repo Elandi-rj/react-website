@@ -1,6 +1,8 @@
+import React from 'react';
 import logo from '../logo.png';
 import './style.css';
 import Bottomnav from '../bottomnav';
+import Hamburgernav from '../hamburgernav';
 function Home() {
     return (
         <div className="home container-md">
@@ -15,6 +17,7 @@ function Home() {
                         <p>Quisque ac dapibus nisl. Etiam rhoncus aliquet ligula ac convallis. Ut eleifend sit amet justo eu laoreet.</p>
                     </div>
                 </div>
+                <Hamburgernav />
             </div>
             <Bottomnav />
         </div>
