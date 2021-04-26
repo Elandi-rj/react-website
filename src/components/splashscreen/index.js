@@ -4,7 +4,8 @@ import logo from '../logo.png';
 import './style.css';
 import Playbar from '../playbar'
 import { Link } from 'react-router-dom';
-
+import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
+import { faHandPointRight } from '@fortawesome/free-solid-svg-icons'
 function Splashscreen() {
     return (
         <div className="home">
@@ -13,7 +14,7 @@ function Splashscreen() {
                     <p>LOREM IPSUM</p>
                     <img src={logo} className="logo" alt="logo" /> <br></br>
                     <Link to="/home">
-                        <button className="header-button">☛ Click begin to get started</button>
+                        <button className="header-button"><FontAwesomeIcon icon={faHandPointRight} /> Click begin to get started</button>
                     </Link>
                 </div>
                 <img src={globe} className="Globe " alt="Globe" />
