@@ -8,12 +8,12 @@
 
 .hamburger-menu {
     position: fixed;
-    right: 25px;
+    right: 40px;
     top: -8px;
 }
 
 .hamburger-menu .btn-dark{
     background-color: black;
     border-radius: 0px;
-     
+    padding: 15px 20px 15px 20px;
 }
