@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/react-website/static/css/main.a85de93c.chunk.css",
+    "main.js": "/react-website/static/js/main.ed899fa5.chunk.js",
+    "main.js.map": "/react-website/static/js/main.ed899fa5.chunk.js.map",
+    "runtime-main.js": "/react-website/static/js/runtime-main.017d9ab9.js",
+    "runtime-main.js.map": "/react-website/static/js/runtime-main.017d9ab9.js.map",
+    "static/js/2.e6c94853.chunk.js": "/react-website/static/js/2.e6c94853.chunk.js",
+    "static/js/2.e6c94853.chunk.js.map": "/react-website/static/js/2.e6c94853.chunk.js.map",
+    "static/js/3.6ba87454.chunk.js": "/react-website/static/js/3.6ba87454.chunk.js",
+    "static/js/3.6ba87454.chunk.js.map": "/react-website/static/js/3.6ba87454.chunk.js.map",
+    "index.html": "/react-website/index.html",
+    "static/css/main.a85de93c.chunk.css.map": "/react-website/static/css/main.a85de93c.chunk.css.map",
+    "static/js/2.e6c94853.chunk.js.LICENSE.txt": "/react-website/static/js/2.e6c94853.chunk.js.LICENSE.txt",
+    "static/media/globe.54b5ae3c.png": "/react-website/static/media/globe.54b5ae3c.png",
+    "static/media/style.css": "/react-website/static/media/topic1bg.79826789.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.017d9ab9.js",
+    "static/js/2.e6c94853.chunk.js",
+    "static/css/main.a85de93c.chunk.css",
+    "static/js/main.ed899fa5.chunk.js"
+  ]
+}
