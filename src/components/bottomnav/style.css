@@ -7,3 +7,22 @@
     width: 100%;
     bottom: 0px;
 }
+
+.active{
+    border-bottom: solid;
+    border-color: #55C6D7;
+    border-width: 120%;
+    font-weight: bold;
+}
+
+ul li a{
+    text-decoration: none;
+    background-color: #000;
+    color: #fff;
+}
+
+ul li a:hover{
+    color: #fff;
+    text-decoration: none;
+
+}
