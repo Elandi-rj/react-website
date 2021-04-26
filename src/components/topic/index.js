@@ -11,7 +11,7 @@ function Topic() {
                 <div className="topic-left col-xl-4">
                     <img src={logo} className="logo mb-5 col-4" alt="logo" />
                     <h1 className="mt-5">LOREM IPSUM <br /> DOLOR SIT</h1>
-                    <NavLink className="begin" to="/topic1">BEGIN</NavLink>
+                    <NavLink className="begin" to="/react-website/topic1">BEGIN</NavLink>
                 </div>
                 <Hamburgernav />
             </div>

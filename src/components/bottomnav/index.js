@@ -8,10 +8,10 @@ function Bottomnav() {
         <div className="bottom-nav container-fluid">
             <ul className="row">
                 <li className="col-2 d-flex justify-content-center mb-4">
-                    <NavLink exact activeClassName="active" to="/home"><FontAwesomeIcon icon={faHome} /> Home</NavLink>
+                    <NavLink exact activeClassName="active" to="/react-website/home"><FontAwesomeIcon icon={faHome} /> Home</NavLink>
                 </li>
                 <li className="col-2 d-flex justify-content-center mb-4">
-                    <NavLink activeClassName="active" to="/topic1">TOPIC 1</NavLink>
+                    <NavLink activeClassName="active" to="/react-website/topic1">TOPIC 1</NavLink>
                 </li>
                 <li className="dummylink col-2 d-flex justify-content-center mb-4">TOPIC 2</li>
                 <li className="dummylink col-2 d-flex justify-content-center mb-4">TOPIC 3</li>

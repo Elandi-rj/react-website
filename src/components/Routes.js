@@ -7,13 +7,13 @@ import Topic from './topic';
 function Routes() {
     return (
         <Switch>
-            <Route exact path="/">
+            <Route exact path="/react-website/">
                 <Splashscreen />
             </Route>
-            <Route exact path="/home">
+            <Route exact path="/react-website/home">
                 <Home />
             </Route>
-            <Route exact path="/topic1">
+            <Route exact path="/react-website/topic1">
                 <Topic />
             </Route>
         </Switch>

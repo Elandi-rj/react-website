@@ -13,7 +13,7 @@ function Splashscreen() {
                 <div className="header-text">
                     <p>LOREM IPSUM</p>
                     <img src={logo} className="logo" alt="logo" /> <br></br>
-                    <Link to="/home">
+                    <Link to="/react-website/home">
                         <button className="header-button"><FontAwesomeIcon icon={faHandPointRight} /> Click begin to get started</button>
                     </Link>
                 </div>
